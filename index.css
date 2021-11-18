@@ -24,9 +24,17 @@ header a {
     margin: 0 50px;
 }
 
+@media (max-width: 1600px) {
+    header a {
+        font-size: 20px;
+    }
+}
+
 header a:hover {
     color: #ffffff;
 }
+
+
 .skrift {
     margin: 0 20vw;
 }
